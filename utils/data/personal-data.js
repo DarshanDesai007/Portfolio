@@ -7,11 +7,11 @@ export const personalData = {
   phone: '+91 8080205724',
   address: 'Mumbai, Maharashtra, India ',
   github: 'https://github.com/DarshanDesai007',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
+  facebook: 'https://www.facebook.com//',
   linkedIn: 'https://www.linkedin.com/in/darshandesai19/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  twitter: 'https://twitter.com/',
+  stackOverflow: 'https://stackoverflow.com/',
+  leetcode: "https://leetcode.com//",
+  devUsername: "",
   resume: "https://drive.google.com/file/d/1i2ZNMb9HFPEIdElvhbaqjrBGjZUBlM2H/view?usp=sharing"
 }
