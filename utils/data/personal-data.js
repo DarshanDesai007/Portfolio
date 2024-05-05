@@ -2,7 +2,7 @@ export const personalData = {
   name: "Darshan Desai",
   profile: '/profile.png',
   designation: "Software Developer",
-  description: "I am Darshan Desai, a dynamic and visionary software developer deeply engaged with the vast potentials of ASP.NET and JavaScript. Driven by an insatiable passion for pioneering web technologies, I craft digital experiences that push the boundaries of innovation and efficiency. Recognized for my rapid adaptability and exceptional analytical skills, I excel in environments that challenge the conventional and embrace the future. My approach to development combines meticulous attention to detail with creative ingenuity, ensuring each project not only succeeds but sets new standards in the digital landscape. Eager to contribute to cutting-edge initiatives, I am on a quest to shape the future of web applications with a team as passionate about redefining user engagement as I am.",
+  description: "I'm Darshan Desai, a software developer who loves working with ASP.NET and JavaScript. I'm passionate about creating new things on the web and making them better. People know me for being quick to learn and good at solving problems. I enjoy working in challenging environments that look forward to what's next. When I develop, I pay close attention to detail and use my creativity to make each project stand out. I'm excited to work with a team that shares my enthusiasm for improving user experiences online and shaping the future of web applications.",
   email: 'mmmdarshan98@gmail.com',
   phone: '+91 8080205724',
   address: 'Mumbai, Maharashtra, India ',
