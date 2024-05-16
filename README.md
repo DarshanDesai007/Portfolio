@@ -54,7 +54,8 @@ git --version
 
 Fork and Clone the repo
 
-To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
+To Fork the repo click on the fork button at the top right of the page. 
+Once the repo is forked open your terminal and perform the following commands
 
 ```bash
 git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
@@ -75,7 +76,8 @@ Open http://localhost:3000 with your browser to see the result.
 
 
 Usage 🕹️
-Goto emailjs.com and create a new account for the mail sending. In free trial you will get 200 mail per month. After setup emailjs account, Please create a new .env file from .env.example file.
+Goto emailjs.com and create a new account for the mail sending. In free trial you will get 200 mail per month. 
+After setup emailjs account, Please create a new .env file from .env.example file.
 
 Eg:
 NEXT_PUBLIC_EMAILJS_SERVICE_ID =
