@@ -11,8 +11,7 @@ export const skillsData = [
   'MongoDB',
   'MySQL',
   'SQLServer',
-  'Git',
-  'Azure',    
+  'Git',      
   'Ubuntu'
 ]
 
