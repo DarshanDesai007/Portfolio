@@ -12,8 +12,7 @@ export const skillsData = [
   'MySQL',
   'SQLServer',
   'Git',
-  'Azure',  
-  'AWS',
+  'Azure',    
   'Ubuntu'
 ]
 
