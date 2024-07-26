@@ -23,19 +23,9 @@ export const projectsData = [
         code: '',
         demo: '',
         image: travel,
-    },
+    },    
     {
         id: 3,
-        name: 'landing page for a shoe e-commerce website',
-        description: '"Crafted a visually appealing and user-friendly landing page for a shoe e-commerce site to enhance customer engagement and increase conversions.',
-        tools: ['React', 'Bootstrap', 'Express'],
-        code: '',
-        role: 'Software Developer Intern',
-        demo: '',
-        image: realEstate,
-    },
-    {
-        id: 4,
         name: 'CRUD operations Api',
         description: "Implemented comprehensive CRUD operations in a Node.js application using both MongoDB and MySQL databases to enhance data handling and storage capabilities.",
         tools: ['MySql', 'mongodb', 'Node', 'Express', "Rest Api"],
@@ -45,7 +35,7 @@ export const projectsData = [
         role: 'Software Developer',
     },
     {
-        id: 5,
+        id: 4,
         name: 'Event Management System',
         description: "Developed a robust event management system that facilitates seamless organization, registration, and tracking of various events.",
         tools: ['MySql', 'Asp.net', 'Linq', 'MVC', "Rest Api"],
@@ -53,6 +43,16 @@ export const projectsData = [
         demo: '',
         image: ayla,
         role: 'Software Developer',
+    },
+    {
+        id: 5,
+        name: 'landing page for a shoe e-commerce website',
+        description: '"Crafted a visually appealing and user-friendly landing page for a shoe e-commerce site to enhance customer engagement and increase conversions.',
+        tools: ['React', 'Bootstrap', 'Express'],
+        code: '',
+        role: 'Software Developer Intern',
+        demo: '',
+        image: realEstate,
     }
 ];
 
