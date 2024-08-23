@@ -73,6 +73,8 @@ yarn dev
 
 Open http://localhost:3000 with your browser to see the result.
 
+# For RECAPTCHA 
+https://www.google.com/recaptcha/admin/create
 
 Usage 🕹️
 Goto emailjs.com and create a new account for the mail sending. In free trial you will get 200 mail per month. 
