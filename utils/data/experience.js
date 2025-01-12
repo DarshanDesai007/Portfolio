@@ -10,11 +10,5 @@ export const experiences = [
     title: "FullStack Developer",
     company: "Flynetics Systems Pvt. Ltd.",
     duration: "(Jun 2023 - Oct 2023)"
-  },
-  {
-    id: 3,
-    title: "Software Developer Intern",
-    company: "SlashRTC  Pvt. Ltd.",
-    duration: "(Nov 2022 - Jan 2023)"
   }
 ]
